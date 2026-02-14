@@ -1,0 +1,18 @@
+{
+    "title": "Speech-to-Text System",
+    "description": "Developed a speech recognition system using Python and Machine Learning algorithms. Processed audio input and applied supervised learning techniques to convert speech into accurate text output.",
+    "technologies": [
+        "Python",
+        "Machine Learning",
+        "SpeechRecognition",
+        "Scikit-learn"
+    ],
+    "image": [
+        "./Projects/Speech-To-Text-System/project.png"
+    ],
+    "liveUrl": "",
+    "githubUrl": "",
+    "category": "machine-learning",
+    "featured": true,
+    "order": 2
+}

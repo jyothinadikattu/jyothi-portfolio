@@ -1,0 +1,17 @@
+{
+  "title": "Responsive E-Commerce Website",
+  "description": "Developed a responsive e-commerce website using HTML, CSS, JavaScript, and React.js. Integrated REST APIs to fetch dynamic product data and enhance user interactivity. Deployed the project to simulate real-world web application development.",
+  "technologies": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React.js",
+    "REST API"
+  ],
+  "image": "./Projects/Ecommerce-Website/project2.jpg",
+  "liveUrl": "",
+  "githubUrl": "",
+  "category": "frontend",
+  "featured": true,
+  "order": 3
+}

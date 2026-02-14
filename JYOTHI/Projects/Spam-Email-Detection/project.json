@@ -1,0 +1,17 @@
+{
+  "title": "Spam Email Detection System",
+  "description": "Developed a machine learning-based spam email detection system using NLP techniques. Preprocessed and cleaned email data using TF-IDF vectorization and NLTK. Implemented Naive Bayes and Random Forest models to classify emails as spam or non-spam with high accuracy.",
+  "technologies": [
+    "Python",
+    "Scikit-learn",
+    "TensorFlow",
+    "NLTK",
+    "BeautifulSoup"
+  ],
+  "image": "./Projects/Spam-Email-Detection/project 4.png",
+  "liveUrl": "",
+  "githubUrl": "",
+  "category": "machine-learning",
+  "featured": true,
+  "order": 2
+}
