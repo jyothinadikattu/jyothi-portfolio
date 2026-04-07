@@ -1,0 +1,17 @@
+{
+  "title": "HoloPack – Holographic Platform Services",
+  "description": "Built a full-stack system for holographic platform services using Python, C, HTML, and CSS. Designed a scalable backend solution for industries such as Education and Healthcare. Implemented database integration and deployment pipelines for real-time content delivery.",
+  "technologies": [
+    "Python",
+    "C",
+    "HTML",
+    "CSS",
+    "Database Integration"
+  ],
+  "image": "./Projects/HoloPack-System/project 3.jpg",
+  "liveUrl": "",
+  "githubUrl": "",
+  "category": "fullstack",
+  "featured": false,
+  "order": 4
+}

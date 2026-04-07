@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Introduction To Machine Learning",
+        "issuer": "NPTEL",
+        "category": ["NPTEL"],
+        "image": "./assets/nptel.jpg",
+        "order": 1
+    },
+    {
+        "title": "Python Programming",
+        "issuer": "CodeTantra",
+        "category": [
+            "CodeTantra"
+        ],
+        "image": "./assets/codetantra.jpg",
+        "order": 2
+    },
+     {
+        "title": "Data Analytics Job Simulation",
+        "issuer": "Deloitee",
+        "category": [
+            "Deloitee"
+        ],
+        "image": "./assets/Deloitee.jpg",
+        "order": 1
+    },
+     {
+        "title": "Software Engineering and Agile Software Development",
+        "issuer": "Infosys",
+        "category": [
+            "Infosys"
+        ],
+        "image": "./assets/infosys1.jpg",
+        "order": 1
+    },
+     {
+        "title": "Software Engineering and ALM",
+        "issuer": "Infosys",
+        "category": [
+            "Infosys"
+        ],
+        "image": "./assets/infosys2.jpg",
+        "order": 2
+    },
+      {
+        "title": "Beginning Responsive Web Development Using HTML and CSS",
+        "issuer": "Infosys",
+        "category": [
+            "Infosys"
+        ],
+        "image": "./assets/infosys3.jpg",
+        "order": 3
+    },
+     {
+        "title": "TCS iON Career Edge - Young Professional",
+        "issuer": "TCS iON",
+        "category": [
+            "TCS iON"
+        ],
+        "image": "./assets/tcsion1.jpg",
+        "order": 2
+    },
+     {
+        "title": "Interview Skills",
+        "issuer": "TCS iON",
+        "category": [
+            "TCS iON"
+        ],
+        "image": "./assets/tcsion2.jpg",
+        "order": 2
+    },
+      {
+        "title": "Write Effective Resume And Cover Letter",
+        "issuer": "TCS iON",
+        "category": [
+            "TCS iON"
+        ],
+        "image": "./assets/tcsion3.jpg",
+        "order": 3
+    },
+    {
+        "title": "Artificial Intelligence",
+        "issuer": "IBM",
+        "category": [
+            "IBM"
+        ],
+        "image": "./assets/IBM.jpg",
+        "order": 1
+    },
+     {
+        "title": "Artificial Intelligence",
+        "issuer": "Tata (via Forage platform)",
+        "category": [
+            "Tata (via Forage platform)"
+        ],
+        "image": "./assets/tata.jpg",
+        "order": 1
+    },
+      {
+        "title": "T20DSAChallenge",
+        "issuer": "AlgoUniversity",
+        "category": [
+            "AlgoUniversity"
+        ],
+        "image": "./assets/Dsaa.jpg",
+        "order": 1
+    }
+
+
+]

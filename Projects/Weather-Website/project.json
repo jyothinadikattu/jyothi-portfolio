@@ -1,0 +1,16 @@
+{
+  "title": "Real-Time Weather Information Website",
+  "description": "Developed a real-time weather information website using HTML, CSS, and JavaScript. Integrated external APIs to fetch and display live weather data dynamically. Implemented responsive design and interactive UI elements for improved user experience.",
+  "technologies": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "API Integration"
+  ],
+  "image": "./Projects/Weather-Website/output 3.jpg",
+  "liveUrl": "",
+  "githubUrl": "",
+  "category": "frontend",
+  "featured": false,
+  "order": 5
+}
