@@ -1,18 +1,21 @@
 # 🌐 Portfolio Website
 
-Hi I'm Nadikattu Jyothi, a Frontend Developer and Data Science student.
+Hi, I'm Nadikattu Jyothi, a Frontend Developer and Data Science student.
 
-## 🛠️ Tech Stack
+🚀 Live Demo
+https://jyothinadikattu.github.io/jyothi-portfolio/
+
+🛠️ Tech Stack
 - HTML
 - CSS
 - JavaScript
 
-## 💼 Projects
-- Ecommerce Website  
+💼 Projects
+- E-commerce Website  
 - Spam Detection  
 - Weather App  
 - Speech Recognition System  
 
-## 📬 Contact
+📬 Contact
 - Email: nadikattujyothi@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/nadikattu-jyothi2005/
